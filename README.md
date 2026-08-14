@@ -1,2 +1,5 @@
-# public-assets
-Storage and hosting for logos, graphics, and non-sensitive Blissway materials. 
+# Public Assets
+
+🚨 BE VERY CAREFUL RENAMING OR MOVING ANYTHING IN THIS REPO 🚨
+
+These assets are used in email signatures, and are referenced by name.
