@@ -1,4 +1,4 @@
- # Public Assets
+ # Blissway Public Assets
 
   Static assets served at `public.blissway.com` via GitHub Pages, embedded by direct
   URL in email signatures and other external references.
@@ -16,16 +16,16 @@
 
   ## Current assets
   
+  **Logos** — `logos/`
+  - [`blissway-color.png`](https://public.blissway.com/logos/blissway-color.png)
+  - [`linkedin.png`](https://public.blissway.com/logos/linkedin.png)
+  
   **Icons** — `icons/`
   - [`web.png`](https://public.blissway.com/icons/web.png)
   - [`email.png`](https://public.blissway.com/icons/email.png)
   - [`phone.png`](https://public.blissway.com/icons/phone.png)
 
-  **Logos** — `logos/`
-  - [`blissway-color.png`](https://public.blissway.com/logos/blissway-color.png)
-  - [`linkedin.png`](https://public.blissway.com/logos/linkedin.png)
+  ## Adding an asset
 
-  ## Adding a new asset
-
-  Drop the file in the appropriate folder (or a new one) and commit to `main` — GitHub
+  Drop the file in the appropriate folder (or a new one) and commit to `production` — GitHub
   Pages publishes on push. No build step.
